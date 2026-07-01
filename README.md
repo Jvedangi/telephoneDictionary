@@ -22,7 +22,7 @@ A professional web application built with Laravel to manage contacts, groups, an
 
 
 
-## For display
+## should be done
 - composer update
 - check database connection
 - php artisan serve
